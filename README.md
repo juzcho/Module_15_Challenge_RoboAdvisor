@@ -2,20 +2,19 @@
 
 ## Table of Contents
 
-[RoboAdvisor Overview](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#machine-learning-trading-bot-overview)
+[RoboAdvisor Overview](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#roboadvisor-overview)
 
-[Technologies](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#technologies)
+[Technologies](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#technologies)
 
-[Installation Guide](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#installation-guide)
+[Installation Guide](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#installation-guide)
 
-[Examples](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#examples)
+[Examples](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#examples)
 
-[Usage]()
+[Usage](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#usage)
 
-[Contributors](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#contributors)
+[Contributors](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#contributors)
 
-[License](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#license)
-
+[License](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#license)
 ---
 
 ## RoboAdvisor Overview
