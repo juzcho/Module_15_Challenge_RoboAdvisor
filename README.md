@@ -59,6 +59,13 @@ Here are some of the data we did for this model.
 
 ## Usage
 
+### To use the AWS Lambda function:
+
+#### 1. Go to AWS Lambda first. Create a new Lambda function from scratch, and name it recommendPortfolio. Choose Python 3.7 as the runtime programming language.
+
+#### 2. In the online code editor, delete the AWS-generated default lines of code, and then paste the new lambda_function.py that is provided with this file. 
+
+---
 ### To use the AWS Lex Chatbot, our RoboAdvisor Investment Recommendation:
 
 #### 1. The user needs to input an utterance first i.e *"I want to invest for my retirement"*, then it will prompt to input his/her first name.
@@ -66,6 +73,7 @@ Here are some of the data we did for this model.
 #### 3. Then, it will ask how much amount you want to invest, which needs to be at least $5,000.
 #### 4. Then, it will ask how much risk you can handle i.e none, low, medium or high.
 #### 5. Then, once you make a confirmation to proceed, it will share you your potential investment recommendation.
+
 
 ---
 
