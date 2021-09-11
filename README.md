@@ -51,7 +51,9 @@ This project leverages **[python version 3.8.5](https://www.python.org/downloads
 
 Here are some of the data we did for this model.
 
-![AWS Lex Chatbot](./Images/correct_and_incorrect_dialog_test.gif)
+### **This gif should show both correct and incorrect chatbot prompts:** 
+
+![AWS Lex Chatbot- both correct and incorrect](./Images/correct_and_incorrect_dialog_test.gif)
 
 ![AWS Lambda Code](./Images/awslambda_code.png)
 
@@ -61,18 +63,22 @@ Here are some of the data we did for this model.
 
 ### To use the AWS Lambda function:
 
-#### 1. Go to AWS Lambda first. Create a new Lambda function from scratch, and name it recommendPortfolio. Choose Python 3.7 as the runtime programming language.
+1. Go to AWS Lambda first. Create a new Lambda function from scratch, and name it recommendPortfolio. Choose Python 3.7 as the runtime programming language.
 
-#### 2. In the online code editor, delete the AWS-generated default lines of code, and then paste the new lambda_function.py that is provided with this file. 
+2. In the online code editor, delete the AWS-generated default lines of code, and then paste the new lambda_function.py that is provided with this file. 
 
 ---
 ### To use the AWS Lex Chatbot, our RoboAdvisor Investment Recommendation:
 
-#### 1. The user needs to input an utterance first i.e *"I want to invest for my retirement"*, then it will prompt to input his/her first name.
-#### 2. Then, it will ask for your age. Your age needs to be below the retirement age. 
-#### 3. Then, it will ask how much amount you want to invest, which needs to be at least $5,000.
-#### 4. Then, it will ask how much risk you can handle i.e none, low, medium or high.
-#### 5. Then, once you make a confirmation to proceed, it will share you your potential investment recommendation.
+1. The user needs to input an utterance first i.e *"I want to invest for my retirement"*, then it will prompt to input his/her first name.
+2. Then, it will ask for your age. Your age needs to be below the retirement age. 
+3. Then, it will ask how much amount you want to invest, which needs to be at least $5,000.
+4. Then, it will ask how much risk you can handle i.e none, low, medium or high.
+5. Then, once you make a confirmation to proceed, it will share you your potential investment recommendation.
+
+### **This shows just the correct chatbot prompts:**
+![AWS Lex Chatbot- correct only](./Images/correct_dialog_chatbot.gif)
+
 
 
 ---
