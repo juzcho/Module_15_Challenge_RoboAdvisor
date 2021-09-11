@@ -14,7 +14,8 @@
 
 [Contributors](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#contributors)
 
-[License](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#license)
+[License](https://github.com/juzcho/Module_15_Challenge_RoboAdvisor#license-1)
+
 ---
 
 ## RoboAdvisor Overview
